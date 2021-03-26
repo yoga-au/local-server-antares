@@ -1,0 +1,4 @@
+GET http://localhost:9000/latest-data HTTP/1.1
+Content-Type: application/json;ty=4
+Accept: application/json
+X-M2M-Origin: 7d624446e01e538a:ee7bed8fd8f16dc5
